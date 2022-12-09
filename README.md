@@ -2,7 +2,7 @@
 
 git checkout -b develop
 
-
+git add -A
 
 git pull origin main
 
